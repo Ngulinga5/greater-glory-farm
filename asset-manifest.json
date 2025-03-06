@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/greater-glory-farm/static/css/main.86a0385e.css",
+    "main.css": "/greater-glory-farm/static/css/main.2c47a8ff.css",
     "main.js": "/greater-glory-farm/static/js/main.5463c4ea.js",
     "static/media/fa-solid-900.ttf": "/greater-glory-farm/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
     "static/media/fa-brands-400.ttf": "/greater-glory-farm/static/media/fa-brands-400.1815e00441357e01619e.ttf",
@@ -11,11 +11,11 @@
     "static/media/fa-v4compatibility.ttf": "/greater-glory-farm/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
     "static/media/fa-v4compatibility.woff2": "/greater-glory-farm/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "index.html": "/greater-glory-farm/index.html",
-    "main.86a0385e.css.map": "/greater-glory-farm/static/css/main.86a0385e.css.map",
+    "main.2c47a8ff.css.map": "/greater-glory-farm/static/css/main.2c47a8ff.css.map",
     "main.5463c4ea.js.map": "/greater-glory-farm/static/js/main.5463c4ea.js.map"
   },
   "entrypoints": [
-    "static/css/main.86a0385e.css",
+    "static/css/main.2c47a8ff.css",
     "static/js/main.5463c4ea.js"
   ]
 }
